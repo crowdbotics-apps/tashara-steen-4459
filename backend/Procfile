@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT tashara_steen_4459.wsgi:application
